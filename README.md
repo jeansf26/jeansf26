@@ -4,7 +4,7 @@
 Meu nome é Jean, sou um desenvolvedor web com experiência prática em PHP, Python, HTML, CSS e bancos de dados MySQL/PHPMyaAdmin. Recentemente também tenho estudado sobre tecnologias web em geral como Javascript, React, e Tailwind css.
 
 ## 🛠️ O que você encontra nos meus repositórios  
-. Sistema de gestão de dados escolares com PHP, HTML e CSS. Foi desenvolvido para a Pratica Profissional Integrada de 2024 (PPI);  
+. Sistema de gestão de dados escolares com PHP, HTML, CSS, comandos SQL e PHPMyAdmin. Foi desenvolvido para a Pratica Profissional Integrada de 2024 (PPI);  
 . Sistema de relogio com opções de ponteiro, mostrador digital e temporizador. Feito em HTML, CSS e Javascript;  
   ↪︎ [[Teste aqui](https://jeansf26.github.io/Clock_with_JS/)]  
 . Sistema simples de gerenciamento de tarefas. Realizado utilizando React e Tailwind CSS;  
