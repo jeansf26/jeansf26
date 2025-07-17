@@ -12,7 +12,7 @@ Meu nome é Jean, sou um desenvolvedor web com experiência prática em PHP, Pyt
 . Sistema simples de gerenciamento de tarefas. Realizado utilizando React e Tailwind CSS;  
   ↪︎ [[Teste aqui](https://jeansf26.github.io/task-list_React/)]  
 
-. Sistema de catálogo de filmes usando React e Tailwind CSS;
+. Sistema de catálogo de filmes usando React e Tailwind CSS;  
   ↪︎ [[Teste aqui](https://jeansf26.github.io/catalog_movies/#/)]  
 
 ## 🎯 Meu foco  
