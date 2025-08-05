@@ -24,7 +24,7 @@ Meu nome é Jean, sou um desenvolvedor web com experiência prática em PHP, Pyt
   .  
     Usuário: admin＠gmail.com  
     Senha: admin1234  
-    ↪︎ [Teste aqui](https://jeansf26.infinityfree.me/SGN/index.php)]]  
+    ↪︎ [Teste aqui](https://jeansf26.infinityfree.me/SGN/index.php)  
 
 ## 🎯 Meu foco  
 . Praticar lógica de programação, integração com APIs e estruturas de dados;  
