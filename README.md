@@ -20,12 +20,12 @@ Meu nome é Jean, sou um desenvolvedor web com experiência prática em PHP, Pyt
   . Sistema de gestão estudantil, desenvolvido nos anos de 2023 e 2024 visando solucionar a falta de organização para as informações pessoais e as notas dos alunos do IFFAR-FW;  
   . O sistema foi desenvolvido utilizando HTML e CSS com o framework Bootstrap, alem de PHP no backend. Foi utilizado banco de dados relacional, implementado pelo SGBD MySQL;  
   . A documentação completa foi realizada em 2023, contendo os requisitos de usuário e de sistema, diversos diagramas representativos, modelo conceitual do banco de dados, protótipos de tela;  
-  
+
   . Atualmente ele está disponível para acesso, se quiser conhecer o sistema utilize as seguintes credenciais:  
-    Usuário: admin@gmail.com  
+  .  
+    Usuário: admin＠gmail.com  
     Senha: admin1234  
     ↪︎ [Teste aqui](https://jeansf26.infinityfree.me/SGN/index.php)]]  
-
 
 ## 🎯 Meu foco  
 . Praticar lógica de programação, integração com APIs e estruturas de dados;  
