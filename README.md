@@ -22,8 +22,10 @@ Meu nome é Jean, sou um desenvolvedor web com experiência prática em PHP, Pyt
   . A documentação completa foi realizada em 2023, contendo os requisitos de usuário e de sistema, diversos diagramas representativos, modelo conceitual do banco de dados, protótipos de tela;  
   
   . Atualmente ele está disponível para acesso, se quiser conhecer o sistema utilize as seguintes credenciais:  
-    Usuário: admin  
+    Usuário: admin@gmail.com  
     Senha: admin1234  
+    ↪︎ [Teste aqui](https://jeansf26.infinityfree.me/SGN/index.php)]]  
+
 
 ## 🎯 Meu foco  
 . Praticar lógica de programação, integração com APIs e estruturas de dados;  
