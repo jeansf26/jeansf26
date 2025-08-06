@@ -1,7 +1,7 @@
 # Sobre mim 👋
 
 ## 💬 Quem sou eu?  
-Meu nome é Jean, sou um desenvolvedor web com experiência prática em PHP, Python, HTML, CSS e bancos de dados MySQL/PHPMyaAdmin. Recentemente também tenho estudado sobre tecnologias web em geral como Javascript, React, e Tailwind css.
+Meu nome é Jean, sou um desenvolvedor web com experiência prática em PHP, Python, HTML, CSS e bancos de dados MySQL. Recentemente também tenho estudado sobre tecnologias web em geral como Javascript, React, e Tailwind css.
 
 ## 🛠️ O que você encontra nos meus repositórios
 
