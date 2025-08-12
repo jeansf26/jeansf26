@@ -15,7 +15,7 @@ Meu nome é Jean, sou um desenvolvedor web com experiência prática em PHP, Pyt
   ↪︎ [[Teste aqui](https://jeansf26.github.io/catalog_movies/#/)]  
 
 . Sistema de scraping de resultados de busca da Amazon — backend em Bun + Express (JavaScript) e frontend simples para visualização.  
-  ↪︎ [[Repositorio aqui](https://github.com/jeansf26/Scraping_Amazon)]  
+  ↪︎ [[Teste aqui](https://amazon-search.infinityfreeapp.com/frontend/)]  
   
 ## 📚 Sistema de Gestão Estudantil (PPI)
 
