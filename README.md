@@ -1,7 +1,7 @@
 # Sobre mim 👋
 
 ## 💬 Quem sou eu?  
-Meu nome é Jean, sou um desenvolvedor web com experiência prática em PHP, Python, HTML, CSS e bancos de dados MySQL. Recentemente também tenho estudado sobre tecnologias web em geral como Javascript, React, e Tailwind css.
+Meu nome é Jean, sou um desenvolvedor web com experiência prática em PHP, Python, javascript, HTML, CSS e bancos de dados MySQL. Recentemente também tenho estudado sobre tecnologias web em geral como NodeJS, React, e Tailwind css.
 
 ## 🛠️ O que você encontra nos meus repositórios
 
@@ -13,6 +13,9 @@ Meu nome é Jean, sou um desenvolvedor web com experiência prática em PHP, Pyt
 
 . Sistema de catálogo de filmes usando React e Tailwind CSS integrados à uma API de filmes;  
   ↪︎ [[Teste aqui](https://jeansf26.github.io/catalog_movies/#/)]  
+
+. Sistema de scraping de resultados de busca da Amazon — backend em Bun + Express (JavaScript) e frontend simples para visualização.
+  ↪︎ [[Repositorio aqui](https://github.com/jeansf26/Scraping_Amazon)]  
   
 ## 📚 Sistema de Gestão Estudantil (PPI)
 
