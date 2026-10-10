@@ -1,3 +1,4 @@
+<!--
 # Sobre mim 👋
 
 ## 💬 Quem sou eu?  
@@ -49,7 +50,18 @@ Senha: admin1234
 . Praticar lógica de programação, integração com APIs e estruturas de dados;  
 . Aprender continuamente, testando novas tecnologias e frameworks;  
 
+-->
 
+## 💬 Quem sou eu?  
+Desenvolvedor com interesse em desenvolvimento web e backend, com experiência em PHP, Laravel e Javascript
+
+Sempre fui movido pela curiosidade e pelo gosto por resolver problemas lógicos e criar soluções. Foi essa combinação, junto com as oportunidades que tive ao longo da minha trajetória, que me levou à área da programação.
+
+Durante o ensino médio, cursei o Técnico em Informática no Instituto Federal Farroupilha, onde desenvolvi projetos e aprofundei meus conhecimentos em programação, além de ter contato com modelagem de sistemas, documentação de requisitos e conceitos de redes de computadores.
+
+Atualmente curso o 3º semestre do Bacharelado em Ciência da Computação no Instituto Federal Farroupilha e estou realizando estágio na área de desenvolvimento de software, trabalhando com diversas tecnologias e com ênfase no desenvolvimento web utilizando Laravel.
+
+Estou em constante busca por evolução profissional e novos desafios na área de tecnologia, com foco em desenvolvimento de software e criação de soluções eficientes.
 
 <!--
 **jeansf26/jeansf26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
